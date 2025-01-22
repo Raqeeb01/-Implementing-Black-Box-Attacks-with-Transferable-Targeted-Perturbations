@@ -15,3 +15,8 @@ accuracy of ResNet-9 dropped from 99.57% to 18.75%, while
 ResNet-50’s accuracy decreased from 99.14% to 39.89%. These
 results highlight the superiority of the proposed architecture in
 generating transferrable targeted perturbations.
+
+<div align="center">
+    <img src="Black Box attack with Targeted Perturbations/Adversarial autoencoder Model.jpeg" alt="Alt text" title="Hover text" height="400" width="500"/>
+    <p><em>Figure 1: Proposed architecture for Targeted perturbations.</em></p>
+</div>
